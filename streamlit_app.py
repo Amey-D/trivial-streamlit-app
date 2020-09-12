@@ -12,5 +12,7 @@ v = st.slider("Choose a value", 0, 100)
 
 "You selected:", v
 
+"This is an update"
+
 
 print("*** after, you selected: ", v)
